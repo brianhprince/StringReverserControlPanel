@@ -1,0 +1,13 @@
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bin\Debug\resources.pri
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bin\Debug\AppxManifest.xml
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bin\Debug\StringReverserControlPanel.build.appxrecipe
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bld\Debug\priconfig.xml.intermediate
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bld\Debug\layout.resfiles.intermediate
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bld\Debug\resources.resfiles.intermediate
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bld\Debug\pri.resfiles.intermediate
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bld\Debug\priconfig.xml
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bld\Debug\layout.resfiles
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bld\Debug\resources.resfiles
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bld\Debug\pri.resfiles
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bld\Debug\LanguageQualifiers.txt
+c:\users\brian\documents\visual studio 2012\Projects\StringReverserControlPanel\StringReverserControlPanel\bld\Debug\ProjectArchitectures.txt
